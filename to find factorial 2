@@ -1,0 +1,7 @@
+def factorial(n):
+    ifn==1 or n==2:
+        return 1
+        eise:
+            return factorial (n-1)+factorial(n-2)
+        num=int(input("enter the number:"))
+        print(fibonacci (num)
